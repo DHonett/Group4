@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789151350689",
+    "firebase_url": "https://group4seizureapp.firebaseio.com",
+    "project_id": "group4seizureapp",
+    "storage_bucket": "group4seizureapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789151350689:android:534f21c9688752a09355e0",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MedicalAppProj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789151350689-3c2fce833r5nstjjpm7pm7esc0i360h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbH1DUI_1cszXsjJnM_m76I0du3zhwiQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789151350689-3c2fce833r5nstjjpm7pm7esc0i360h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
